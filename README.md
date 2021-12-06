@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Ansari (Mo).
 - 👀 I’m interested in learning new and exciting things.
-- 🌱 I’m currently learning Automating the Power System Tools with Python and other tools.
-- 💞️ I’m looking to collaborate with anyone working on exciting projects
+- 🌱 I’m currently learning to automate the Power System Tools with Python and other languages.
+- 💞️ I’m looking to collaborate with anyone working on exciting projects.
 - 📫 How to reach me abdulhafeezansari@yahoo.com
 
 <!---
